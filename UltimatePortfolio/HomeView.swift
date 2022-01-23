@@ -20,7 +20,7 @@ struct HomeView: View {
                 }
             }
         }
-        .navigationTitle("Home")
+        .navigationTitle("House")
     }
 }
 
